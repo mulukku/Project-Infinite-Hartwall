@@ -1,0 +1,292 @@
+{
+  "entries": [
+    {
+      "item": "minecraft:bedrock|0",
+      "emc": 9223372036854775807
+    },
+    {
+      "item": "thermalfoundation:material|1025",
+      "emc": 417
+    },
+    {
+      "item": "thermalfoundation:material|1024",
+      "emc": 355
+    },
+    {
+      "item": "tconstruct:edible|1",
+      "emc": 64
+    },
+    {
+      "item": "tconstruct:edible|2",
+      "emc": 64
+    },
+    {
+      "item": "tconstruct:edible|4",
+      "emc": 64
+    },
+    {
+      "item": "tconstruct:slime_congealed|4",
+      "emc": 256
+    },
+    {
+      "item": "tconstruct:ingots|3",
+      "emc": 320
+    },
+    {
+      "item": "OD|2",
+      "emc": 560
+    },
+    {
+      "item": "extendedcrafting:singularity|24",
+      "emc": 2560000
+    },
+    {
+      "item": "extrautils2:itemcreativebuilderswand|0",
+      "emc": 219144
+    },
+    {
+      "item": "extrautils2:ingredients|0",
+      "emc": 512
+    },
+    {
+      "item": "extrautils2:decorativesolid|3",
+      "emc": 128
+    },
+    {
+      "item": "thermalfoundation:material|1026",
+      "emc": 432
+    },
+    {
+      "item": "thermalfoundation:material|1027",
+      "emc": 432
+    },
+    {
+      "item": "thermalfoundation:material|0",
+      "emc": 256
+    },
+    {
+      "item": "thermalfoundation:material|1",
+      "emc": 2048
+    },
+    {
+      "item": "thermalfoundation:material|64",
+      "emc": 128
+    },
+    {
+      "item": "thermalfoundation:material|65",
+      "emc": 256
+    },
+    {
+      "item": "thermalfoundation:material|66",
+      "emc": 512
+    },
+    {
+      "item": "thermalfoundation:material|67",
+      "emc": 512
+    },
+    {
+      "item": "thermalfoundation:material|68",
+      "emc": 128
+    },
+    {
+      "item": "thermalfoundation:material|69",
+      "emc": 1024
+    },
+    {
+      "item": "thermalfoundation:material|70",
+      "emc": 4096
+    },
+    {
+      "item": "thermalfoundation:material|770",
+      "emc": 64
+    },
+    {
+      "item": "thermalfoundation:material|136",
+      "emc": 1024
+    },
+    {
+      "item": "thermalfoundation:material|135",
+      "emc": 256
+    },
+    {
+      "item": "thermalfoundation:material|71",
+      "emc": 256
+    },
+    {
+      "item": "thermalfoundation:material|72",
+      "emc": 1024
+    },
+    {
+      "item": "thermalfoundation:material|96",
+      "emc": 252
+    },
+    {
+      "item": "redstonearsenal:material|0",
+      "emc": 1381
+    },
+    {
+      "item": "thermalfoundation:material|97",
+      "emc": 1280
+    },
+    {
+      "item": "thermalfoundation:material|98",
+      "emc": 512
+    },
+    {
+      "item": "thermalfoundation:material|99",
+      "emc": 160
+    },
+    {
+      "item": "thermalfoundation:material|100",
+      "emc": 54
+    },
+    {
+      "item": "thermalfoundation:material|101",
+      "emc": 384
+    },
+    {
+      "item": "thermalfoundation:material|103",
+      "emc": 1280
+    },
+    {
+      "item": "thermalfoundation:material|102",
+      "emc": 704
+    },
+    {
+      "item": "immersiveintelligence:material|22",
+      "emc": 16
+    },
+    {
+      "item": "immersive_energy:metal|1",
+      "emc": 256
+    },
+    {
+      "item": "immersiveintelligence:material_ingot|3",
+      "emc": 256
+    },
+    {
+      "item": "immersiveintelligence:material_plate|3",
+      "emc": 256
+    },
+    {
+      "item": "immersiveintelligence:material_dust|3",
+      "emc": 256
+    },
+    {
+      "item": "immersive_energy:metal|3",
+      "emc": 256
+    },
+    {
+      "item": "immersiveintelligence:material_ingot|4",
+      "emc": 256
+    },
+    {
+      "item": "immersiveintelligence:material_dust|4",
+      "emc": 256
+    },
+    {
+      "item": "immersiveintelligence:material_dust|1",
+      "emc": 54
+    },
+    {
+      "item": "immersive_energy:metal|0",
+      "emc": 512
+    },
+    {
+      "item": "immersiveengineering:metal|14",
+      "emc": 4096
+    },
+    {
+      "item": "immersive_energy:metal|2",
+      "emc": 512
+    },
+    {
+      "item": "immersiveintelligence:material_dust|0",
+      "emc": 2273
+    },
+    {
+      "item": "extrautils2:ingredients|9",
+      "emc": 5000
+    },
+    {
+      "item": "extrautils2:decorativesolidwood|1",
+      "emc": 3000
+    },
+    {
+      "item": "extrautils2:ingredients|12",
+      "emc": 4258
+    },
+    {
+      "item": "extrautils2:ingredients|4",
+      "emc": 256
+    },
+    {
+      "item": "OD|17",
+      "emc": 764
+    },
+    {
+      "item": "extrautils2:ingredients|17",
+      "emc": 17764
+    },
+    {
+      "item": "extrautils2:suncrystal|250",
+      "emc": 9728
+    },
+    {
+      "item": "extrautils2:suncrystal|0",
+      "emc": 9728
+    },
+    {
+      "item": "extrautils2:ingredients|10",
+      "emc": 25600
+    },
+    {
+      "item": "extrautils2:goldenlasso|0",
+      "emc": 1000
+    },
+    {
+      "item": "extrautils2:endershard|0",
+      "emc": 128
+    },
+    {
+      "item": "extrautils2:ingredients|11",
+      "emc": 2048
+    },
+    {
+      "item": "extrautils2:quarry|0",
+      "emc": 140881
+    },
+    {
+      "item": "extrautils2:decorativesolid|4",
+      "emc": 1
+    },
+    {
+      "item": "extrautils2:decorativeglass|5",
+      "emc": 65
+    },
+    {
+      "item": "extrautils2:ingredients|3",
+      "emc": 864
+    },
+    {
+      "item": "extrautils2:ingredients|13",
+      "emc": 100
+    },
+    {
+      "item": "extrautils2:wateringcan|0",
+      "emc": 10
+    },
+    {
+      "item": "extrautils2:decorativesolid|7",
+      "emc": 1024
+    },
+    {
+      "item": "extrautils2:decorativesolid|8",
+      "emc": 102400
+    },
+    {
+      "item": "actuallyadditions:item_food|14",
+      "emc": 280
+    }
+  ]
+}
